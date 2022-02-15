@@ -1,6 +1,6 @@
-package com.siriuscom;
+package qaace22training;
 
-public class Exercise1 {
+public class ExerciseOne {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
