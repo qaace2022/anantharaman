@@ -1,0 +1,19 @@
+{
+  "admin" : null,
+  "bankName" : null,
+  "customers" : [ {
+    "id" : 103,
+    "name" : "CustomerThree",
+    "cards" : [ {
+      "cardNum" : 1234567,
+      "pin" : 65,
+      "balance" : 1000,
+      "active" : true
+    }, {
+      "cardNum" : 0,
+      "pin" : 0,
+      "balance" : 0,
+      "active" : false
+    } ]
+  } ]
+}

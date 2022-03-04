@@ -1,0 +1,45 @@
+{
+    "admin": {
+        "password": "password",
+        "username": "admin"
+    },
+    "bankName": "ABC",
+    "customers": [
+        {
+            "cards": [
+                {
+                    "cardNum": "848683",
+                    "pin": "1234",
+                    "balance": "20000",
+                    "active": true
+                },
+                {
+                    "cardNum": "909090",
+                    "pin": "0110",
+                    "balance": "5000",
+                    "active": false
+                }
+            ],
+            "name": "customerOne",
+            "id": "101"
+        },
+        {
+            "cards": [
+                {
+                    "cardNum": "848683",
+                    "pin": "1234",
+                    "balance": "20000",
+                    "active": true
+                },
+                {
+                    "cardNum": "909090",
+                    "pin": "0110",
+                    "balance": "5000",
+                    "active": true
+                }
+            ],
+            "name": "TWO",
+            "id": "102"
+        }
+    ]
+}
